@@ -3,6 +3,8 @@ Welcome to my profile.
 
 Seja bem vindo ao meu perfil.
 
+> We're living the future so
+> the present is our past.
 
 My name is Felipe Victorino Sarubo.
 
