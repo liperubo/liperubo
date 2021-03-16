@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey!
+Welcome to my profile.
+My name is Felipe Victorino Sarubo.
 
-<!--
-**liperubo/liperubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I’m:
+- Currently Unemployed.
+- Currently learning Computer Engineering at FACENS.
+- Addicted to Video Games.
+- Fluent in Portuguese and English.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Coding:
+- Webdesign: HTML, CSS, Bootstrap.
+- Learned to deal with 'em: C and C#.
+- Absolutely in love: JavaScript, Node.js.
