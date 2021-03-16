@@ -1,14 +1,7 @@
 ### Hey!
 Welcome to my profile.
 
-Seja bem vindo ao meu perfil.
-
-> We're living the future so
-> the present is our past.
-
 My name is Felipe Victorino Sarubo.
-
-Meu nome é Felipe Victorino Sarubo.
 
 # I’m:
 - 19yo Brazillian.
