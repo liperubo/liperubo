@@ -12,5 +12,5 @@ My name is Felipe Victorino Sarubo.
 
 # Coding:
 - Webdesign: HTML, CSS, Bootstrap.
-- Learned to deal with 'em: C and C#.
+- Learned to deal with 'em: C, C# and Java.
 - Absolutely in love: JavaScript, Node.js.
