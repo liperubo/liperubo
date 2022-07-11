@@ -11,6 +11,7 @@ My name is Felipe Victorino Sarubo.
 - Fluent in Portuguese and English.
 
 # Coding:
-- Webdesign: HTML, CSS, Bootstrap.
-- Learned to deal with 'em: C, C# and Java.
+- Webdesign: HTML, CSS, Bootstrap, React.
+- Data Storage: XML, JSON, SQL, MySQL, MongoDB.
+- Learned to deal with 'em: C, C#, Python and Java.
 - Absolutely in love: JavaScript, Node.js.
