@@ -5,13 +5,13 @@ My name is Felipe Victorino Sarubo.
 
 # I’m:
 - 20yo Brazillian.
-- Currently Unemployed.
-- Currently learning Computer Engineering at FACENS.
+- Currently Employed - Multpex.
+- Currently Learning Computer Engineering at FACENS.
 - Addicted to Video Games.
 - Fluent in Portuguese and English.
 
 # Coding:
 - Webdesign: HTML, CSS, Bootstrap, React.
-- Data Storage: XML, JSON, SQL, MySQL, MongoDB.
-- Learned to deal with 'em: C, C#, Python and Java.
+- Data Storage: XML, JSON, SQL, MySQL, MongoDB, Google Firebase.
+- Learned to deal with 'em: PHP, C, C#, Python, Java, and React Native.
 - Absolutely in love: JavaScript, Node.js.
