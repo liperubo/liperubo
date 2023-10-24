@@ -4,11 +4,12 @@ Welcome to my profile.
 My name is Felipe Victorino Sarubo.
 
 # I’m:
-- 20yo Brazillian.
+- 21yo
+- Brazillian
 - Currently Employed - Multpex.
-- Currently Learning Computer Engineering at FACENS.
+- Currently Studying Computer Engineering at FACENS.
 - Addicted to Video Games.
-- Fluent in Portuguese and English.
+- Fluent in Portuguese and English. And trying Italian
 
 # Coding:
 - Webdesign: HTML, CSS, Bootstrap, React.
